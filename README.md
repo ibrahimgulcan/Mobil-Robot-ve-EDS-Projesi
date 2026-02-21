@@ -18,10 +18,10 @@ Sistem donanımı şu bileşenlerden oluşmaktadır:
 
 3. Sistemin Çalışma Mantığı
 
-1. Android telefondan gönderilen veriler, ESP32 üzerindeki Bluetooth protokolü ile alınır.
+* Android telefondan gönderilen veriler, ESP32 üzerindeki Bluetooth protokolü ile alınır.
 
-2. ESP32, aldığı bu verileri UART (Seri Haberleşme) üzerinden Arduino Uno'ya aktarır.
+* ESP32, aldığı bu verileri UART (Seri Haberleşme) üzerinden Arduino Uno'ya aktarır.
 
-3. Arduino, gelen komutu işleyerek ('F', 'B', 'S' vb.) L298N sürücüsünü tetikler ve robotu hareket ettirir.
+* Arduino, gelen komutu işleyerek ('F', 'B', 'S' vb.) L298N sürücüsünü tetikler ve robotu hareket ettirir.
 
-4. Robot EDS istasyonundan geçerken, 24.5 cm aralıklı IR sensörler aracılığıyla hız tespiti yapılır ve sonuç LCD ekrana yazdırılır.
+* Robot EDS istasyonundan geçerken, 24.5 cm aralıklı IR sensörler aracılığıyla hız tespiti yapılır ve sonuç LCD ekrana yazdırılır.
