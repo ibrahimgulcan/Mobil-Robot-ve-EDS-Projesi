@@ -26,7 +26,7 @@ Sistem donanımı şu bileşenlerden oluşmaktadır:
 
 * Robot EDS istasyonundan geçerken, 24.5 cm aralıklı IR sensörler aracılığıyla hız tespiti yapılır ve sonuç LCD ekrana yazdırılır.
 
-  ## 👤 Geliştirici
+ Geliştirici
 ---
 **İbrahim GÜLCAN** <br>
 Mikroişlemciler ve Gömülü Sistemler Dersi Projesi <br>
