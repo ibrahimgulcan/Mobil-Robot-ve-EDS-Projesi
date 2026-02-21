@@ -25,3 +25,9 @@ Sistem donanımı şu bileşenlerden oluşmaktadır:
 * Arduino, gelen komutu işleyerek ('F', 'B', 'S' vb.) L298N sürücüsünü tetikler ve robotu hareket ettirir.
 
 * Robot EDS istasyonundan geçerken, 24.5 cm aralıklı IR sensörler aracılığıyla hız tespiti yapılır ve sonuç LCD ekrana yazdırılır.
+
+  ## 👤 Geliştirici
+---
+**İbrahim GÜLCAN** <br>
+Mikroişlemciler ve Gömülü Sistemler Dersi Projesi <br>
+
